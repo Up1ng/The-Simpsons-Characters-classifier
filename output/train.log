@@ -1,0 +1,21 @@
+train: 15263
+val: 3816
+classes: 20
+epoch 1/15 | train_loss=1.3298 | val_loss=0.4970 | val_acc=0.8844 | val_f1_micro=0.8844 | val_f1_macro=0.8761 | val_precision_macro=0.8727 | val_recall_macro=0.8821
+epoch 2/15 | train_loss=0.4067 | val_loss=0.3168 | val_acc=0.9154 | val_f1_micro=0.9154 | val_f1_macro=0.9095 | val_precision_macro=0.9013 | val_recall_macro=0.9210
+epoch 3/15 | train_loss=0.2716 | val_loss=0.2533 | val_acc=0.9319 | val_f1_micro=0.9319 | val_f1_macro=0.9234 | val_precision_macro=0.9148 | val_recall_macro=0.9341
+epoch 4/15 | train_loss=0.2055 | val_loss=0.2185 | val_acc=0.9384 | val_f1_micro=0.9384 | val_f1_macro=0.9321 | val_precision_macro=0.9229 | val_recall_macro=0.9441
+epoch 5/15 | train_loss=0.1612 | val_loss=0.1984 | val_acc=0.9434 | val_f1_micro=0.9434 | val_f1_macro=0.9376 | val_precision_macro=0.9322 | val_recall_macro=0.9447
+epoch 6/15 | train_loss=0.1341 | val_loss=0.1883 | val_acc=0.9497 | val_f1_micro=0.9497 | val_f1_macro=0.9451 | val_precision_macro=0.9407 | val_recall_macro=0.9505
+epoch 7/15 | train_loss=0.1174 | val_loss=0.1857 | val_acc=0.9473 | val_f1_micro=0.9473 | val_f1_macro=0.9421 | val_precision_macro=0.9366 | val_recall_macro=0.9490
+epoch 8/15 | train_loss=0.1043 | val_loss=0.1875 | val_acc=0.9505 | val_f1_micro=0.9505 | val_f1_macro=0.9476 | val_precision_macro=0.9455 | val_recall_macro=0.9505
+epoch 9/15 | train_loss=0.1009 | val_loss=0.1756 | val_acc=0.9507 | val_f1_micro=0.9507 | val_f1_macro=0.9471 | val_precision_macro=0.9431 | val_recall_macro=0.9518
+epoch 10/15 | train_loss=0.0911 | val_loss=0.1735 | val_acc=0.9541 | val_f1_micro=0.9541 | val_f1_macro=0.9486 | val_precision_macro=0.9444 | val_recall_macro=0.9537
+epoch 11/15 | train_loss=0.0814 | val_loss=0.1716 | val_acc=0.9536 | val_f1_micro=0.9536 | val_f1_macro=0.9496 | val_precision_macro=0.9464 | val_recall_macro=0.9535
+epoch 12/15 | train_loss=0.0753 | val_loss=0.1762 | val_acc=0.9549 | val_f1_micro=0.9549 | val_f1_macro=0.9520 | val_precision_macro=0.9504 | val_recall_macro=0.9545
+epoch 13/15 | train_loss=0.0749 | val_loss=0.1706 | val_acc=0.9555 | val_f1_micro=0.9555 | val_f1_macro=0.9512 | val_precision_macro=0.9497 | val_recall_macro=0.9533
+epoch 14/15 | train_loss=0.0720 | val_loss=0.1727 | val_acc=0.9549 | val_f1_micro=0.9549 | val_f1_macro=0.9511 | val_precision_macro=0.9497 | val_recall_macro=0.9531
+epoch 15/15 | train_loss=0.0703 | val_loss=0.1677 | val_acc=0.9583 | val_f1_micro=0.9583 | val_f1_macro=0.9546 | val_precision_macro=0.9528 | val_recall_macro=0.9568
+done
+
+Лучший результат: val_acc=0.9583, val_f1_micro=0.9583, val_f1_macro=0.9546
